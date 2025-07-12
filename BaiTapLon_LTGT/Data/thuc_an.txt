@@ -1,0 +1,122 @@
+﻿TA01,Phở Bò,50000,Món chính
+TA02,Bún Chả Cá,45000,Đồ ăn nhẹ
+TA03,Cơm Tấm,40000,Món chính
+TA04,Bánh Canh,35000,Món chính
+TA05,Hủ Tiếu,40000,Món chính
+TA06,Mì Quảng,45000,Món chính
+TA07,Bún Bò Huế,50000,Món chính
+TA08,Cơm Gà,40000,Món chính
+TA09,Bánh Xèo,30000,Món chính
+TA10,Cháo Lòng,35000,Món chính
+TA11,Phở Gà,45000,Món chính
+TA12,Bún Riêu,40000,Món chính
+TA13,Cơm Rang Dưa Bò,45000,Món chính
+TA14,Mì Xào Hải Sản,50000,Món chính
+TA15,Bánh Mì Chảo,35000,Món chính
+TA16,Cháo Gà,30000,Món chính
+TA17,Bún Đậu Mắm Tôm,40000,Món chính
+TA18,Cơm Niêu,45000,Món chính
+TA19,Bánh Đa Cua,40000,Món chính
+TA20,Hủ Tiếu Nam Vang,45000,Món chính
+TA21,Phở Tái,55000,Món chính
+TA22,Bún Bò Nam Bộ,45000,Món chính
+TA23,Cơm Gà Xối Mỡ,40000,Món chính
+TA24,Mì Vịt Tiềm,50000,Món chính
+TA25,Bánh Canh Cua,45000,Món chính
+TA26,Hủ Tiếu Xào,40000,Món chính
+TA27,Bún Mắm,45000,Món chính
+TA28,Cơm Tấm Sườn,45000,Món chính
+TA29,Bánh Xèo Tôm Thịt,35000,Món chính
+TA30,Cháo Vịt,35000,Món chính
+DL01,Bánh Mì,20000,Đồ ăn nhẹ
+DL02,Nem Rán,25000,Đồ ăn nhẹ
+DL03,Chả Giò,30000,Đồ ăn nhẹ
+DL04,Bánh Cuốn,25000,Đồ ăn nhẹ
+DL05,Gỏi Cuốn,20000,Đồ ăn nhẹ
+DL06,Bánh Tráng Trộn,15000,Đồ ăn nhẹ
+DL07,Bánh Tráng Nướng,18000,Đồ ăn nhẹ
+DL08,Xôi Gấc,20000,Đồ ăn nhẹ
+DL09,Bánh Bao,15000,Đồ ăn nhẹ
+DL10,Bánh Chưng,30000,Đồ ăn nhẹ
+DL11,Bánh Mì Pate,25000,Đồ ăn nhẹ
+DL12,Nem Chua,20000,Đồ ăn nhẹ
+DL13,Chả Cá,30000,Đồ ăn nhẹ
+DL14,Bánh Giò,20000,Đồ ăn nhẹ
+DL15,Gỏi Đu Đủ,25000,Đồ ăn nhẹ
+DL16,Bánh Trôi,15000,Đồ ăn nhẹ
+DL17,Bánh Chưng Rán,25000,Đồ ăn nhẹ
+DL18,Xôi Xéo,20000,Đồ ăn nhẹ
+DL19,Bánh Mì Que,10000,Đồ ăn nhẹ
+DL20,Bánh Bao Chiên,20000,Đồ ăn nhẹ
+DL21,Bánh Mì Ốp La,25000,Đồ ăn nhẹ
+DL22,Nem Nướng,30000,Đồ ăn nhẹ
+DL23,Chả Lụa,25000,Đồ ăn nhẹ
+DL24,Bánh Cuốn Nóng,30000,Đồ ăn nhẹ
+DL25,Gỏi Cuốn Tôm Thịt,25000,Đồ ăn nhẹ
+DL26,Bánh Tráng Trộn Sài Gòn,20000,Đồ ăn nhẹ
+DL27,Bánh Tráng Nướng Đà Lạt,25000,Đồ ăn nhẹ
+DL28,Xôi Gà,25000,Đồ ăn nhẹ
+DL29,Bánh Bao Trứng Muối,20000,Đồ ăn nhẹ
+DL30,Bánh Chưng Chiên,25000,Đồ ăn nhẹ
+DU01,Cà Phê Sữa Đá,25000,Đồ uống
+DU02,Trà Chanh,15000,Đồ uống
+DU03,Sinh Tố Bơ,30000,Đồ uống
+DU04,Nước Ép Cam,25000,Đồ uống
+DU05,Nước Dừa,20000,Đồ uống
+DU06,Chè Thái,25000,Đồ uống
+DU07,Sữa Chua Đánh Đá,20000,Đồ uống
+DU08,Nước Mía,15000,Đồ uống
+DU09,Trà Sữa,25000,Đồ uống
+DU10,Bia Hơi,10000,Đồ uống
+DU11,Cà Phê Đen Đá,20000,Đồ uống
+DU12,Trà Đào,25000,Đồ uống
+DU13,Sinh Tố Xoài,30000,Đồ uống
+DU14,Nước Ép Dưa Hấu,25000,Đồ uống
+DU15,Nước Chanh Leo,20000,Đồ uống
+DU16,Chè Đậu Đen,20000,Đồ uống
+DU17,Sữa Chua Nếp Cẩm,25000,Đồ uống
+DU18,Nước Sâm,15000,Đồ uống
+DU19,Trà Sữa Trân Châu,30000,Đồ uống
+DU20,Bia Sài Gòn,15000,Đồ uống
+DU21,Cà Phê Sữa Nóng,25000,Đồ uống
+DU22,Trà Chanh Đào,20000,Đồ uống
+DU23,Sinh Tố Dâu,30000,Đồ uống
+DU24,Nước Ép Táo,25000,Đồ uống
+DU25,Nước Dừa Tươi,25000,Đồ uống
+DU26,Chè Thái Lan,30000,Đồ uống
+DU27,Sữa Chua Đánh Đá Matcha,25000,Đồ uống
+DU28,Nước Mía Sầu Riêng,20000,Đồ uống
+DU29,Trà Sữa Khoai Môn,25000,Đồ uống
+DU30,Bia Tiger,20000,Đồ uống
+TM01,Chè Khúc Bạch,25000,Tráng miệng
+TM02,Bánh Flan,15000,Tráng miệng
+TM03,Hoa Quả Dầm,20000,Tráng miệng
+TM04,Kem Dừa,25000,Tráng miệng
+TM05,Bánh Đậu Xanh,10000,Tráng miệng
+TM06,Chè Bưởi,20000,Tráng miệng
+TM07,Bánh Trung Thu,30000,Tráng miệng
+TM08,Kẹo Dừa,15000,Tráng miệng
+TM09,Bánh Pía,20000,Tráng miệng
+TM10,Ô Mai,10000,Tráng miệng
+TM11,Chè Ba Màu,20000,Tráng miệng
+TM12,Bánh Flan Cà Phê,18000,Tráng miệng
+TM13,Hoa Quả Tươi,25000,Tráng miệng
+TM14,Kem Xôi,25000,Tráng miệng
+TM15,Bánh Đậu Đỏ,15000,Tráng miệng
+TM16,Chè Sen,25000,Tráng miệng
+TM17,Bánh Trung Thu Đậu Xanh,35000,Tráng miệng
+TM18,Kẹo Cu Đơ,20000,Tráng miệng
+TM19,Bánh Pía Sầu Riêng,25000,Tráng miệng
+TM20,Ô Mai Gừng,15000,Tráng miệng
+TM21,Chè Khúc Bạch Trái Cây,30000,Tráng miệng
+TM22,Bánh Flan Sầu Riêng,20000,Tráng miệng
+TM23,Hoa Quả Dầm Sữa Chua,25000,Tráng miệng
+TM24,Kem Dừa Non,30000,Tráng miệng
+TM25,Bánh Đậu Xanh Hấp,15000,Tráng miệng
+TM26,Chè Bưởi An Giang,25000,Tráng miệng
+TM27,Bánh Trung Thu Thập Cẩm,40000,Tráng miệng
+TM28,Kẹo Dừa Bến Tre,20000,Tráng miệng
+TM29,Bánh Pía Đậu Xanh,25000,Tráng miệng
+TA100,Bánh chuối,13000,Đồ ăn nhẹ
+TA101,Ngô rang,10000,Khai vị
+ID,Tên Món,Giá,Danh Mục

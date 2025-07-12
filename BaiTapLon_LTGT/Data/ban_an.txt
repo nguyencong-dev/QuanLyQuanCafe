@@ -1,0 +1,6 @@
+ID,Tên Bàn,Trạng Thái
+B01,Bàn 1,Đang sử dụng
+B02,Bàn 2,Đang sử dụng
+B03,Bàn 3,Trống
+B04,Bàn 4,Trống
+B05,Bàn 5,Trống

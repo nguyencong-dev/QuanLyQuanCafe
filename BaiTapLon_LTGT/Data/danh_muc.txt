@@ -1,0 +1,6 @@
+﻿ID,Tên Danh Mục
+1,Món chính
+2,Đồ ăn nhẹ
+3,Đồ uống
+4,Tráng miệng
+5,Khai vị

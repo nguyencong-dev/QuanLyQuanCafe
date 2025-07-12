@@ -1,0 +1,10 @@
+C:\BaiTapLon_LTGT\Login_6_Cong\Login_6_Cong\bin\Debug\Login_6_Cong.exe.config
+C:\BaiTapLon_LTGT\Login_6_Cong\Login_6_Cong\bin\Debug\Login_6_Cong.exe
+C:\BaiTapLon_LTGT\Login_6_Cong\Login_6_Cong\bin\Debug\Login_6_Cong.pdb
+C:\BaiTapLon_LTGT\Login_6_Cong\Login_6_Cong\obj\Debug\Login_6_Cong.csproj.AssemblyReference.cache
+C:\BaiTapLon_LTGT\Login_6_Cong\Login_6_Cong\obj\Debug\Login_6_Cong.Login_6_Cong.resources
+C:\BaiTapLon_LTGT\Login_6_Cong\Login_6_Cong\obj\Debug\Login_6_Cong.Properties.Resources.resources
+C:\BaiTapLon_LTGT\Login_6_Cong\Login_6_Cong\obj\Debug\Login_6_Cong.csproj.GenerateResource.cache
+C:\BaiTapLon_LTGT\Login_6_Cong\Login_6_Cong\obj\Debug\Login_6_Cong.csproj.CoreCompileInputs.cache
+C:\BaiTapLon_LTGT\Login_6_Cong\Login_6_Cong\obj\Debug\Login_6_Cong.exe
+C:\BaiTapLon_LTGT\Login_6_Cong\Login_6_Cong\obj\Debug\Login_6_Cong.pdb
